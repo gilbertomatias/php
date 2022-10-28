@@ -1,2 +1,2 @@
-# php
- Curso PHP do CursoemVideo
+# Curso Gratis de Git e GitHub
+Material do CursoemVideo
